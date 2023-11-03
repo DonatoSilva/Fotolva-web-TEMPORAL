@@ -1,0 +1,61 @@
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Fotolva Web.dll.config
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Fotolva Web.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Fotolva Web.pdb
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Antlr3.Runtime.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\BouncyCastle.Cryptography.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Google.Protobuf.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Compression.LZ4.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Hash.xxHash.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\MySql.Data.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Newtonsoft.Json.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Buffers.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.IO.Pipelines.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Memory.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Numerics.Vectors.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.AccessControl.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.Permissions.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.Principal.Windows.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Web.Optimization.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\WebGrease.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\ZstdSharp.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\BouncyCastle.Cryptography.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Google.Protobuf.pdb
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Google.Protobuf.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Compression.LZ4.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\K4os.Hash.xxHash.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\MySql.Data.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Newtonsoft.Json.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Buffers.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.IO.Pipelines.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Memory.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Numerics.Vectors.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.AccessControl.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.Permissions.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Security.Principal.Windows.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\System.Web.Optimization.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Antlr3.Runtime.pdb
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\obj\Debug\Fotolva Web.csproj.AssemblyReference.cache
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\obj\Debug\Fotolva Web.csproj.CoreCompileInputs.cache
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\obj\Debug\Fotolva Web.csproj.CopyComplete
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\obj\Debug\Fotolva Web.dll
+C:\Users\figue\OneDrive\Escritorio\Universidad\2023\Segundo semestre 2023\Lenguajes de programación\Etapa 4\Fotolva Web\obj\Debug\Fotolva Web.pdb
